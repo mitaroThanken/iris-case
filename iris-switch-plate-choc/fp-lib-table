@@ -1,4 +1,4 @@
-
 (fp_lib_table
-  (lib (name "iris-switch-plate-choc-svg2shenzhen")(type KiCad)(uri "$(KIPRJMOD)/iris-switch-plate-choc-svg2shenzhen.pretty")(options "")(descr ""))
+  (lib (name iris-switch-plate-choc-svg2shenzhen)(type KiCad)(uri "$(KIPRJMOD)/iris-switch-plate-choc-svg2shenzhen.pretty")(options "")(descr ""))
+  (lib (name mouse-bites)(type KiCad)(uri "$(KIPRJMOD)/mouse-bites.pretty")(options "")(descr ""))
 )
